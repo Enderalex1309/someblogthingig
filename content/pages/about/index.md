@@ -1,10 +1,11 @@
 +++
 title = "About me"
 draft = false
-description = ""
-image = "/img/default-author.jpg"
+image = "ab67616d0000b2732160c02bc56f192df0f4986b.jpg"
+description = "this is me."
+footnotes = "feetnote"
 +++
-![](/img/default-author.jpg)
+![alt text](ab67616d0000b2732160c02bc56f192df0f4986b.jpg "my title. this is me.")
 
 ## My Name
 
