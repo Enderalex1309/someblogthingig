@@ -2,4 +2,4 @@
 title = "Admin"
 draft = false
 +++
-https://erinerainbobertothedilf2raedlersblog.netlify.app/admin
+[Admin Page](https://erinerainbobertothedilf2raedlersblog.netlify.app/admin)
