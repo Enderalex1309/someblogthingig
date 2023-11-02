@@ -7,8 +7,4 @@ footnotes = "feetnote"
 +++
 ![alt text](ab67616d0000b2732160c02bc56f192df0f4986b.jpg "my title. this is me.")
 
-## My Name
-
-mail@example.org
-
 Here should be some info about me...
