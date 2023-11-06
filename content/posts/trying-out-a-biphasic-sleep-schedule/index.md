@@ -1,9 +1,10 @@
 +++
-title = "Trying out a biphasic sleep schedule"
+title = "Biphasic sleep schedule experiment"
 date = "2023-11-06"
 draft = false
 pinned = false
-description = "I'm always tired and don't get enough sleep no matter how hard I try so I thought i'd switch things up..."
+tags = ["slep"]
+description = "I'm always tired and don't get enough sleep no matter how hard I try so I thought i'd switch things up and document it here!"
 footnotes = ""
 +++
 Hello Dear Reader,
@@ -26,6 +27,8 @@ Now that you've been enlightened as well, here are the things I'm hoping to achi
 My plan is it to go to sleep right after I get home from school, wake up sometime for dinner and the go to sleep again when I have enough time to make up the optimal 7-9 hours. This way I can maintain a social life and still try out this little experiment.
 
 
+
+### The Log
 
 `6 Nov. 2023`
 
