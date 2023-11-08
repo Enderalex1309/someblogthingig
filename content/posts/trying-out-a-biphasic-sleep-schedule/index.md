@@ -7,6 +7,8 @@ tags = ["slep"]
 description = "I'm always tired and don't get enough sleep no matter how hard I try so I thought i'd switch things up and document it here!"
 footnotes = ""
 +++
+
+
 Hello Dear Reader,
 
 If you have ever spent any amount of time with me in person then you know that I'm often very tired. Why is still a mystery to many and trying to fix it is,,, well it hasn't really worked. Especially recently my sleep schedule has been not optimal as no matter how early I go to sleep I only get 4h-6h of sleep. Yes, when I go to sleep at midnight I wake up at 5am and when I go to bed at 3am I wake up at around 9am (it's a real problem). So in order to try and fix that I will no londer try to fight it (and force myself to sleep longer when I wake up too early) and just go with it I guess. 
@@ -26,15 +28,7 @@ Now that you've been enlightened as well, here are the things I'm hoping to achi
 
 My plan is it to go to sleep right after I get home from school, wake up sometime for dinner and the go to sleep again when I have enough time to make up the optimal 7-9 hours. This way I can maintain a social life and still try out this little experiment.
 
-### The Log
 
-`6 Nov. 2023`
-
-I'm actually tired before going to bed a second time! I did get some of my energy back even though I didn't sleep very deeply after coming home from school. I think that's probably just something my body has to get adjusted to. I wasn't very productive after waking up as I was on call with a friend and then started overthinking and then it was time for bed again. The time I have after waking up a second time is very limited I have realized so I should use it wisely (I sound like a wizard). I was honestly not too tired after waking up either and started getting tired when bed-time-2 was on the menu so thats pretty good so far. I'm mostly stressing out about the two tests I'll have write in two days (!!) and hope that this helps me study somehow.
-
-`7. Nov. 2023`
-
-Sooo it's currently 01:29 am and I finally finished studying for my biology test. Whats surprising to me is that I still have enough time before bed to write this. Okay but let's start at the beginning - so i woke up, pretty awake and then did the mistake (or habit) of just going back to sleep. When i woke up like half an hour later I was in pain. I took my medication and was fine,,, for a moment. The pain stayed in varying intensity during the whole day. This is probably because my body isn't adapted to this schedule yet and my chronic pain gets worse when I do something different than my inner-body-schedule. Around 2 pm I got a little tired but I couldn't just go to sleep. That vanished when I returned home even though I got home kind of late, which is why I showered and ate dinner **before** going to sleep. When I went to sleep it was about 6:30 pm and I woke up around 7:30 pm because my mom wanted to talk to me. Then I went to sleep again as I wanted to wake up naturally. I woke up at around 10:30 pm (kind of late if you ask me) and I wasn't motivated at all. When I opened Whatsapp I saw that many of my friends were online and talking while I was sleeping and now, as I'm awake, they're all going to bed. This isn't much of a problem when I go to bed earlier though (I hope). As I mentioned earlier I was pretty productive though. This is good because it proves that this sleeping rhythm does have some advantages. 
 
 ### Questions I asked myself during this expreiment
 
@@ -45,3 +39,19 @@ What do I do at afterschool events where I don't have time to go home?
 How healthy is this in the longrun?
 
 When do I take my medication I would usually take before going to sleep?
+
+
+
+### The Log
+
+`6 Nov 2023`
+
+I'm actually tired before going to bed a second time! I did get some of my energy back even though I didn't sleep very deeply after coming home from school. I think that's probably just something my body has to get adjusted to. I wasn't very productive after waking up as I was on call with a friend and then started overthinking and then it was time for bed again. The time I have after waking up a second time is very limited I have realized so I should use it wisely (I sound like a wizard). I was honestly not too tired after waking up either and started getting tired when bed-time-2 was on the menu so thats pretty good so far. I'm mostly stressing out about the two tests I'll have write in two days (!!) and hope that this helps me study somehow.
+
+`7 Nov 2023`
+
+Sooo it's currently 01:29 am and I finally finished studying for my biology test. Whats surprising to me is that I still have enough time before bed to write this. Okay but let's start at the beginning - so i woke up, pretty awake and then did the mistake (or habit) of just going back to sleep. When i woke up like half an hour later I was in pain. I took my medication and was fine,,, for a moment. The pain stayed in varying intensity during the whole day. This is probably because my body isn't adapted to this schedule yet and my chronic pain gets worse when I do something different than my inner-body-schedule. Around 2 pm I got a little tired but I couldn't just go to sleep. That vanished when I returned home even though I got home kind of late, which is why I showered and ate dinner **before** going to sleep. When I went to sleep it was about 6:30 pm and I woke up around 7:30 pm because my mom wanted to talk to me. Then I went to sleep again as I wanted to wake up naturally. I woke up at around 10:30 pm (kind of late if you ask me) and I wasn't motivated at all. When I opened Whatsapp I saw that many of my friends were online and talking while I was sleeping and now, as I'm awake, they're all going to bed. This isn't much of a problem when I go to bed earlier though (I hope). As I mentioned earlier I was pretty productive though. This is good because it proves that this sleeping rhythm does have some advantages. 
+
+`8 Nov 2023`
+
+j
