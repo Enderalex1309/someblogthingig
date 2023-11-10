@@ -7,6 +7,8 @@ tags = ["slep"]
 description = "I'm always tired and don't get enough sleep no matter how hard I try so I thought i'd switch things up and document it here!"
 footnotes = ""
 +++
+
+
 Hello Dear Reader,
 
 If you have ever spent any amount of time with me in person then you know that I'm often very tired. Why is still a mystery to many and trying to fix it is,,, well it hasn't really worked. Especially recently my sleep schedule has been not optimal as no matter how early I go to sleep I only get 4h-6h of sleep. Yes, when I go to sleep at midnight I wake up at 5am and when I go to bed at 3am I wake up at around 9am (it's a real problem). So in order to try and fix that I will no londer try to fight it (and force myself to sleep longer when I wake up too early) and just go with it I guess. 
@@ -25,7 +27,8 @@ Now that you've been enlightened as well, here are the things I'm hoping to achi
 * Living a more fullfilling life
 
 My plan is it to go to sleep right after I get home from school, wake up sometime for dinner and the go to sleep again when I have enough time to make up the optimal 7-9 hours. This way I can maintain a social life and still try out this little experiment.
-
+#
+##
 ### Questions I asked myself during this expreiment
 
 How do I sleep at sleepovers if I keep this up?
@@ -35,7 +38,7 @@ What do I do at afterschool events where I don't have time to go home?
 How healthy is this in the longrun?
 
 When do I take my medication I would usually take before going to sleep?
-
+#
 ### The Log
 
 `6 Nov 2023`
@@ -49,3 +52,11 @@ Sooo it's currently 01:29 am and I finally finished studying for my biology test
 `8 Nov 2023`
 
 I naturally woke up at 6 am (half an hour before my alarm rings). I didn't fall asleep in german class! Even though I got tired around 2 pm it wasn't enough to sleep. When I got home I really didn't want to go to sleep but I did anyways and kind of slept for an hour. Also pretty much no pain today! I do however feel my head, kind of like a headache but not because it's not actual pain... well anyways I'm going to sleep earlier today.
+
+`9 Nov 2023`
+
+You can guess what happened at 6 am today - if you guessed that I woke up you'd be correct. I actually didn't get tired at 2 pm nor when I got home which is probably why I only got 30 mins of sleep. I went to bed sometime after 11 pm.
+
+`10 Nov 2023`
+
+For some reason I woke up at like 3:40 am. It wasn't anything like pain that woke me up so i just went back to sleep. Chronic illness has been showing itself in a little bit of pain and some other symptoms this week which might also be  because of the stress I've had this week.
