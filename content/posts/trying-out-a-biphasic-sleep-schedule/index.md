@@ -28,7 +28,7 @@ My plan is it to go to sleep right after I get home from school, wake up sometim
 
 ### Questions I asked myself during this expreiment *(& my conclusion)*
 
-How do I sleep at sleepovers if I keep this up? * Just don't expect good sleep at a sleepover, drop if for that day or sleep for a bit - whatever feels right in the moment!*
+How do I sleep at sleepovers if I keep this up?  *Just don't expect good sleep at a sleepover, drop if for that day or sleep for a bit - whatever feels right in the moment!*
 
 What do I do at afterschool events where I don't have time to go home?  *Sleep when you have the time or eat/drink something that will keep you awake and then go to sleep early*
 
@@ -57,7 +57,7 @@ You can guess what happened at 6 am today - if you guessed that I woke up you'd 
 `10 Nov 2023`
 
 For some reason I woke up at like 3:40 am. It wasn't anything like pain that woke me up so i just went back to sleep. Chronic illness has been showing itself in a little bit of pain and some other symptoms this week which might also be  because of the stress I've had this week.
-#
+
 ### Conclusion
 
 Cutting out freetime with sleeping just so I can do my work better isn't motivating. However - after waking up I do work better, so this is definitely not the last time I'm doing this. After the body adapts to the new rhythm I was fine (if we ignore the fact I could feel my head through the entire week). Towards the end I got less tired during the day - my sleep went from 2-4h down to 30 minutes of mediocre sleep because I didn't need it I guess. What I learned is that I should sleep when I'm tired and if it's inconvenient timing, just break up the eight hours into pieces because no amount of school work is easier when tired and worth staying up for.
