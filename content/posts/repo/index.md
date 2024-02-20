@@ -47,26 +47,7 @@ Das berühmte Lied zum Vogellisi ertönt gleich am Anfang der Aufführung, unter
 
 ### Geflogen und gelandet
 
-Als die Musik ihren Höhepunkt erreicht schwebt das Vogellisi auf dem Rücken des Adlers Volar hoch in die Lüfte. Die Tänzer drehen sich noch einmal und gehen in die Knie, auch der Adler landet und verbeugt sich als die Musik versiegt und das Licht ausgeht. (Bild von Schluss) Das Licht geht wieder an, alle Schauspielerinnen stehen aufgereiht auf der Bühne und verbeugen sich gemeinsam, danach in Gruppen. Nach den Hauptrollen verbeugt sich Annemarie. Auch die Leute von hinter der Bühne wie die Techniker, die Kostümverantwortliche oder der Bistro-Leiterin gehen auf die Bühne und verbeugen sich, denn ohne diese Personen wäre die ganze Produktion unmöglich gewesen. Als das Saallicht wieder an geht wird man beim Ausgang von den Schauspielerinnen Spalier stehend verabschiedet. Als man nun aus der Märchenwelt schreitet, landet man zurück in einem dunkeln Winterabend vor dem KKThun.zeitat
-
-> *\-quelle zitat*
-
-txtt
-
-\##
-
-txt
-
-(bild)
-*underbild text*
-
-txt
-
-{{<box>}}
-
-infokasten
-
-{{</box>}}
+Als die Musik ihren Höhepunkt erreicht schwebt das Vogellisi auf dem Rücken des Adlers Volar hoch in die Lüfte. Die Tänzer drehen sich noch einmal und gehen in die Knie, auch der Adler landet und verbeugt sich als die Musik versiegt und das Licht ausgeht. (Bild von Schluss) Das Licht geht wieder an, alle Schauspielerinnen stehen aufgereiht auf der Bühne und verbeugen sich gemeinsam, danach in Gruppen. Nach den Hauptrollen verbeugt sich Annemarie. Auch die Leute von hinter der Bühne wie die Techniker, die Kostümverantwortliche oder der Bistro-Leiterin gehen auf die Bühne und verbeugen sich, denn ohne diese Personen wäre die ganze Produktion unmöglich gewesen. Als das Saallicht wieder an geht wird man beim Ausgang von den Schauspielerinnen Spalier stehend verabschiedet. Als man nun aus der Märchenwelt schreitet, landet man zurück in einem dunkeln Winterabend vor dem KKThun.
 
 {{<box>}}
 
