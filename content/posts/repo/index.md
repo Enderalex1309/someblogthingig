@@ -5,8 +5,6 @@ draft = false
 pinned = false
 description = "Leaf"
 +++
-![](ab67616d0000b2732160c02bc56f192df0f4986b.jpg)
-
 {{<lead>}} lead {{</lead>}}
 
 Anna Mürner, Erine Raedler
