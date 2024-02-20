@@ -7,7 +7,7 @@ description = "Leaf"
 +++
 {{<lead>}} lead {{</lead>}}
 
-name der verv
+Anna Mürner, Erine Raedler
 
 (bild)
 *Bild 1: Vogelilsi im Schnee (Offizielles Pressefoto [maerchenhaft.ch](https://www.maerchenhaft.ch/presse/))* 
