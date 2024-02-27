@@ -1,6 +1,6 @@
 +++
 title = "Wenn ein König fliegen lernt "
-date = "2024-01-29"
+date = "2024-02-27"
 draft = false
 pinned = false
 tags = ["Reportage"]
