@@ -1,7 +1,7 @@
 +++
 title = "Biphasic sleep schedule experiment"
 date = "2023-11-06"
-draft = false
+draft = true
 pinned = false
 tags = ["slep"]
 description = "I'm always tired and don't get enough sleep no matter how hard I try so I thought i'd switch things up and document it here!"
